@@ -1,0 +1,6 @@
+C:\Users\enesd_000\Desktop\c#\Kök Alma Algoritması\Kök Alma Algoritması\bin\Debug\Kök Alma Algoritması.exe.config
+C:\Users\enesd_000\Desktop\c#\Kök Alma Algoritması\Kök Alma Algoritması\bin\Debug\Kök Alma Algoritması.exe
+C:\Users\enesd_000\Desktop\c#\Kök Alma Algoritması\Kök Alma Algoritması\bin\Debug\Kök Alma Algoritması.pdb
+C:\Users\enesd_000\Desktop\c#\Kök Alma Algoritması\Kök Alma Algoritması\obj\Debug\Kök Alma Algoritması.csprojResolveAssemblyReference.cache
+C:\Users\enesd_000\Desktop\c#\Kök Alma Algoritması\Kök Alma Algoritması\obj\Debug\Kök Alma Algoritması.exe
+C:\Users\enesd_000\Desktop\c#\Kök Alma Algoritması\Kök Alma Algoritması\obj\Debug\Kök Alma Algoritması.pdb
