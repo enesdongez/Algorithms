@@ -5,16 +5,15 @@ $sari=imagecolorallocate($resim,255,255,255);
 $mavi=imagecolorallocate($resim,0,0,0);
 imagearc($resim,300,350,400,400,0,360,$mavi);
 imagearc($resim,520,350,400,400,0,360,$mavi);
+
 $dizi1=array(1,23,4,6,7,15,49,19);
 $dizi2=array(5,3,4,7,9,15,19,23,28,27);
 
 $sayi=230;
 $sayi2=200;
 $sayi3=200;
-$sayac=0;
-$sayac1=0;
 $kontrol=0;
-$kontrol1=array();
+
 imagestring($resim,8,550,130,"B",$mavi);
 imagestring($resim,8,400,155,"AB",$mavi);
 imagestring($resim,8,250,130,"A",$mavi);
@@ -65,6 +64,7 @@ foreach($dizi2 as $eleman3){
 	 $kontrol5=0;
   }  
 }
+
 imagepng($resim);
 
 ?>
