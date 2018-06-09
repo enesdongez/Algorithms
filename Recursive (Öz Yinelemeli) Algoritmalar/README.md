@@ -1,2 +1,2 @@
 # Recursive
-Öz yinelemeli algoritma kodlarını bu klasör altında toplayacağım.
+Öz yinelemeli algoritma kodlarını bu depo altında toplayacağım.
