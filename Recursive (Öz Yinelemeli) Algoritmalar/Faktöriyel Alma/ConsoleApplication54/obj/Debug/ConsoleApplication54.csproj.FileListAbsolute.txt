@@ -1,0 +1,18 @@
+C:\Users\enesd_000\Desktop\Yeni klasör\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe.config
+C:\Users\enesd_000\Desktop\Yeni klasör\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe
+C:\Users\enesd_000\Desktop\Yeni klasör\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.pdb
+C:\Users\enesd_000\Desktop\Yeni klasör\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.csprojResolveAssemblyReference.cache
+C:\Users\enesd_000\Desktop\Yeni klasör\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.exe
+C:\Users\enesd_000\Desktop\Yeni klasör\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.pdb
+C:\Users\enesd_000\Desktop\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe.config
+C:\Users\enesd_000\Desktop\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.exe
+C:\Users\enesd_000\Desktop\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.pdb
+C:\Users\enesd_000\Desktop\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe
+C:\Users\enesd_000\Desktop\ConsoleApplication54\ConsoleApplication54\bin\Debug\ConsoleApplication54.pdb
+C:\Users\enesd_000\Desktop\ConsoleApplication54\ConsoleApplication54\obj\Debug\ConsoleApplication54.csprojResolveAssemblyReference.cache
+C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe.config
+C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\obj\Debug\ConsoleApplication54.exe
+C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\obj\Debug\ConsoleApplication54.pdb
+C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe
+C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\bin\Debug\ConsoleApplication54.pdb
+C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\obj\Debug\ConsoleApplication54.csprojResolveAssemblyReference.cache
