@@ -16,3 +16,6 @@ C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\obj\Debug\Console
 C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe
 C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\bin\Debug\ConsoleApplication54.pdb
 C:\Users\enesd_000\Desktop\Dersler\C#\7\1\ConsoleApplication54\obj\Debug\ConsoleApplication54.csprojResolveAssemblyReference.cache
+C:\Users\enesd_000\Documents\GitHub\Algoritmalar\Recursive (Öz Yinelemeli) Algoritmalar\Faktöriyel Alma\ConsoleApplication54\bin\Debug\ConsoleApplication54.exe.config
+C:\Users\enesd_000\Documents\GitHub\Algoritmalar\Recursive (Öz Yinelemeli) Algoritmalar\Faktöriyel Alma\ConsoleApplication54\obj\Debug\ConsoleApplication54.exe
+C:\Users\enesd_000\Documents\GitHub\Algoritmalar\Recursive (Öz Yinelemeli) Algoritmalar\Faktöriyel Alma\ConsoleApplication54\obj\Debug\ConsoleApplication54.pdb
