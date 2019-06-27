@@ -1,2 +1,3 @@
-# Algoritma
-**
+# Algoritmalar
+
+Algoritmalar
