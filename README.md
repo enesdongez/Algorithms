@@ -1,3 +1,1 @@
 # Algoritmalar
-
-Algoritmalar
